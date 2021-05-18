@@ -6,7 +6,7 @@
     E uma metodologia adotada por programadores com o intuito de controlar e acompanhar o histórico de alterações em um software. Esse sistema permite distinguir as mudanças realizadas, facilitando a identificação de cada uma delas. O processo de controle atinge os usuários finais do programa, pois permite reconhecer a versão mais atual do sistema e as novidades apresentadas por ele.
 
 • 3. Por que utilizar o Git como controle de versionamento ?
-
+    O git evita que haja conflitos entre as alterações realizadas no sistema. Como os projetos costumam estar em constante evolução, é comum ocorrer alterações que possam causar problemas no funcionamento deles. Nesse caso, o Git permite que tais alterações sejam revertidas de maneira simples e rápida, voltando a versão antiga do projeto para solução de problemas.
 
 • 4. Quais as vantagens do Git ? 
 
