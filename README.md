@@ -12,7 +12,7 @@
     Existe inúmeras vantagens em se utilizar o git, a maior delas e a possibilidade de aprender diversas áreas de programação, que e fundamental para os estudantes, outros benefícios são: A Possibilidade de acompanhar e colaborar com projetos de diferentes equipes; aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros; participar de discussões a respeito de novas tecnologias; obter auxílio de outros programadores para resolver problemas relacionados a seus projetos; controlar as diferentes versões de um código com armazenamento em nuvem e registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc.
 
 • 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software ?
-
+    O controle de versionamento ajuda a gerenciar mudanças, aplicar correções e planejar mudanças futuras. Outras funcionalidades que dão importância no versionamento do software seria a inclusão ou extensão de requisitos existentes; Acompanhamento de versões; Mudanças na arquitetura; Correção de bugs e Ajustes estéticos. 
 
 • 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
 
